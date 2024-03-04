@@ -1,18 +1,4 @@
-# 雾凇拼音
-
-![demo](./others/demo.webp)
-
-功能齐全，词库体验良好，长期更新修订。
-
-<br>
-
-[Rime Input Method Engine / 中州韵输入法引擎](https://rime.im/) 是一个跨平台的输入法算法框架。
-
-这里是 Rime 的一份配置仓库，用户需要下载各平台对应的前端，并将此配置应用到配置目录。
-
-雾凇拼音提供了一套开箱即用的完整配置，包含了输入方案（全拼、双拼）、长期维护的词库及各项扩展功能。
-
-详细介绍：[Rime 配置：雾凇拼音](https://dvel.me/posts/rime-ice/)
+# 雾凇拼音（自用方案，使用小鹤双拼）
 
 [常见问题](https://github.com/iDvel/rime-ice/issues/133)
 
