@@ -49,6 +49,7 @@ function M.func(input, seg, env)
         local current_time = os.time()
         yield_cand(seg, os.date('%Y-%m-%d %H:%M:%S', current_time))
         yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S+08:00', current_time))
+        yield_cand(seg, os.date('%Y-%m-%d %H:%M:%S', current_time))
         yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
 
     -- 时间戳（十位数，到秒，示例 1650861664）
